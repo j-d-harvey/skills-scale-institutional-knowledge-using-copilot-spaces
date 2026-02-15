@@ -21,4 +21,13 @@ This folder contains the complete set of OctoAcme project management process doc
 - **[OctoAcme Risk Management & Communication](octoacme-risks-and-communication.md)** — How to identify, manage, and communicate risks, dependencies, and stakeholder updates
 - **[OctoAcme Release & Deployment Guide](octoacme-release-and-deployment.md)** — Standardized release process including pre-release requirements, deployment checklists, and rollback procedures
 - **[OctoAcme Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** — How to capture learnings and convert them into actionable improvements after sprints and releases
-- **[OctoAcme Roles and Personas](octoacme-roles-and-personas.md)** — Detailed definitions of roles and responsibilities for Developers, Product Managers, and Project Managers
+- **[OctoAcme Roles and Personas](octoacme-roles-and-personas.md)** — Detailed definitions of roles and responsibilities for Developers, Product Managers, Project Managers, Engineering Leads, QA, and specialized roles (Change Coordinator, Quality Champion, Stakeholder Liaison, Process Improvement Facilitator)
+
+### Supporting Templates
+
+These templates help teams execute the OctoAcme process consistently:
+
+- **[Change Request Template](change-request-template.md)** — Standardized format for requesting, reviewing, and documenting production changes
+- **[Quality Gate Checklist](quality-gate-checklist.md)** — Comprehensive release readiness checklist covering development, testing, security, deployment, and communication
+- **[Stakeholder Communication Plan](stakeholder-communication-plan.md)** — Framework for identifying stakeholders, planning communication cadence, and managing feedback
+- **[Retrospective Action Tracker](retrospective-action-tracker.md)** — Template for tracking and following up on continuous improvement action items from retrospectives
